@@ -3,9 +3,17 @@
 * В апреле 2023 г. начала углубленно изучать инструменты для аналитики данных.
 
 ### Обучение
-![Model](https://github.com/PolinaChichigina/Polina-Chichigina/blob/main/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%20%D0%BF%D0%BE%20sql%20-%20Stepik.pdf)
+![1e6a03c46f774b2ac50fac928472cfdec137c9cf](https://github.com/PolinaChichigina/PolinaChichigina/assets/157372882/470fb05f-669e-45c3-81c7-9d77cc02b2cb)
 
 Сертификат доступен по ссылке https://stepik.org/cert/2049520
+
+![dfeff6d6a647cc4ecadcd7d120400a83f91e43ad](https://github.com/PolinaChichigina/PolinaChichigina/assets/157372882/ece22cdc-84dc-41e6-bd92-001334b218d1)
+
+Сертификат доступен по ссылке https://stepik.org/cert/2222169
+
+![e89eb662280049c2bcbca2af1e7f85497b6ca9ad](https://github.com/PolinaChichigina/PolinaChichigina/assets/157372882/2831847c-2290-4298-a46e-10ff7e48b8b3)
+
+Сертификат доступен по ссылке https://stepik.org/cert/2319639
 
 <!--
 **PolinaChichigina/PolinaChichigina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
