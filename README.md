@@ -24,6 +24,10 @@
 
 ---
 ### Обучение
+![[KARPOV.COURSES.pdf](https://github.com/PolinaChichigina/PolinaChichigina/files/14209405/KARPOV.COURSES.pdf)]
+
+Сертификат доступен по ссылке https://lab.karpov.courses/certificate/e68ac606-8f5b-427e-ab33-a9515f3fb12d/
+
 ![1e6a03c46f774b2ac50fac928472cfdec137c9cf](https://github.com/PolinaChichigina/PolinaChichigina/assets/157372882/470fb05f-669e-45c3-81c7-9d77cc02b2cb)
 
 Сертификат доступен по ссылке https://stepik.org/cert/2049520
