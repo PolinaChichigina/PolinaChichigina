@@ -23,6 +23,13 @@
 </div>
 
 ---
+Мои проекты 👇:
+
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|Создаем Дашборды для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/polina.chichigina/viz/KarpovDashboardPractice_16999999459910/Profitoverview) и [Yandex Datalens](https://datalens.yandex.ru/1xkafcyk0pomp-analiz-tonalnosti-po-filmu-dovod))|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau**, **Yandex Datalens**|
+
+
 ### Обучение
 
 ![1e6a03c46f774b2ac50fac928472cfdec137c9cf](https://github.com/PolinaChichigina/PolinaChichigina/assets/157372882/470fb05f-669e-45c3-81c7-9d77cc02b2cb)
