@@ -27,6 +27,7 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
+|Анализ пользовательского поведения и продуктовых метрик (__[github](https://github.com/PolinaChichigina/The_product_metrics_project)__)|Разведочный анализ данных; расчет таких метрик как CR, MAU, ROMI; определение этапа воронки, на котором теряются большая часть пользователей|**requests**, **pandas**|
 |Создаем Дашборды для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/polina.chichigina/viz/KarpovDashboardPractice_16999999459910/Profitoverview) и [Yandex Datalens](https://datalens.yandex.ru/1xkafcyk0pomp-analiz-tonalnosti-po-filmu-dovod))|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau**, **Yandex Datalens**|
 
 
