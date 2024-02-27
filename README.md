@@ -1,6 +1,6 @@
 ### Привет, меня зовут Полина!
 * С 2016 г. в B2B и B2G, анализ рынка ветеринарных препаратов и лекарственных средств. 
-* В апреле 2023 г. начала углубленно изучать инструменты для аналитики данных.
+* В апреле 2023 г. начала углубленно изучать инструменты для [аналитики данных](https://github.com/PolinaChichigina/PolinaChichigina/blob/main/KARPOV.COURSES.pdf).
 
 ### Контакты:
 <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/curly_Poli)</a>
@@ -31,20 +31,6 @@
 |Анализ пользовательского поведения и продуктовых метрик (__[github](https://github.com/PolinaChichigina/The_product_metrics_project)__)|Разведочный анализ данных. Расчет таких показателей как CR, MAU, ROMI. Определение этапа воронки, на котором теряются большая часть пользователей|**requests**, **pandas**|
 |Дашборды для визуализации ключевых процессов в __[Tableau](https://public.tableau.com/app/profile/polina.chichigina/viz/KarpovDashboardPractice_16999999459910/Profitoverview)__ и __[Yandex Datalens](https://datalens.yandex.ru/1xkafcyk0pomp-analiz-tonalnosti-po-filmu-dovod)__|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau**, **Yandex Datalens**|
 
-
-### Обучение
-
-![1e6a03c46f774b2ac50fac928472cfdec137c9cf](https://github.com/PolinaChichigina/PolinaChichigina/assets/157372882/470fb05f-669e-45c3-81c7-9d77cc02b2cb)
-
-Сертификат доступен по ссылке https://stepik.org/cert/2049520
-
-![dfeff6d6a647cc4ecadcd7d120400a83f91e43ad](https://github.com/PolinaChichigina/PolinaChichigina/assets/157372882/ece22cdc-84dc-41e6-bd92-001334b218d1)
-
-Сертификат доступен по ссылке https://stepik.org/cert/2222169
-
-![e89eb662280049c2bcbca2af1e7f85497b6ca9ad](https://github.com/PolinaChichigina/PolinaChichigina/assets/157372882/2831847c-2290-4298-a46e-10ff7e48b8b3)
-
-Сертификат доступен по ссылке https://stepik.org/cert/2319639
 
 <!--
 **PolinaChichigina/PolinaChichigina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
